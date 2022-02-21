@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="104" viewBox="0 0 105 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fefefe;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-1" cx="52.5" cy="52" rx="50.5" ry="50"/>
+  <ellipse class="cls-2" cx="52.5" cy="52" rx="50.5" ry="50"/>
+  <path id="Polygon_1" data-name="Polygon 1" class="cls-3" d="M1023.95,4080l-33.158,24.43v-48.86Z" transform="translate(-949 -4028)"/>
+</svg>
